@@ -118,3 +118,7 @@ Offline Handling: Connectivity check + graceful errors
 ---
 
 Built with ❤️ using Flutter.
+
+![2](https://github.com/user-attachments/assets/3a9fd9b5-f560-459b-bfa6-ebc3e0fb0191)
+![1](https://github.com/user-attachments/assets/262e2f39-010b-4024-8153-8e47540ca125)
+![3](https://github.com/user-attachments/assets/38bec03f-499b-4850-8c9b-6253b640baa2)
